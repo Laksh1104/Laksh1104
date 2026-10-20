@@ -1,4 +1,4 @@
-<!-- 🔧 SETUP: find-and-replace "YOUR_USERNAME" with your GitHub handle, and "YOUR_LINKEDIN" with your LinkedIn slug. -->
+<!-- 🔧 SETUP: replace the email in the mailto link. -->
 
 <div align="center">
 
@@ -9,10 +9,10 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lakshya-boodnah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Toronto%20%F0%9F%87%A8%F0%9F%87%A6-1f2937?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Laksh1104&style=for-the-badge&color=0ea5e9&label=Profile+Views"/>
 </p>
 
 </div>
@@ -122,18 +122,18 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Laksh1104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh1104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=Laksh1104&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Laksh1104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laksh1104&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
 
 </div>
 
@@ -143,9 +143,9 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laksh1104/Laksh1104/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laksh1104/Laksh1104/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Laksh1104/Laksh1104/output/github-contribution-grid-snake-dark.svg?v=2" />
 </picture>
 </div>
 
