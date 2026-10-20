@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Laksh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20(AI)%20%2B%20Economics%20%40%20UofT&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+products+end-to-end+%F0%9F%9A%80;Running+a+retail+company+from+Toronto+%F0%9F%87%B2%F0%9F%87%BA;Economics+%C3%97+Computer+Science+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+products+end-to-end+%F0%9F%9A%80;Economics+%C3%97+Computer+Science+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <p>
@@ -156,6 +156,12 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 ---
 
 <div align="center">
+
+**💬 Let's talk AI agents, startups, or economics — my inbox is open.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+
+</div>
 
 **💬 Let's talk AI agents, startups, or economics — my inbox is open.**
 
