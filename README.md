@@ -162,9 +162,3 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
 
 </div>
-
-**💬 Let's talk AI agents, startups, or economics — my inbox is open.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
-
-</div>
