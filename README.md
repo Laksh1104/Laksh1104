@@ -30,7 +30,6 @@ class Laksh:
         self.honours   = [
             "Ranked 1st in the World — Chemistry & Computer Science",
             "Dean's List",
-            "Incoming Scouty Fellow",
             "Intern Insider Fellow",
         ]
 
@@ -65,10 +64,10 @@ A production-grade agent that detects and remediates security vulnerabilities au
 </td>
 <td width="50%" valign="top">
 
-### 🏪 Curated Space Platform
+### 🏪 [Curated Space](https://www.curatedspace.mu/)
 *Founder*
 
-The entire tech stack for my retail company (official Roborock reseller): e-commerce storefront, internal tools, and a custom ERP used daily by the team.
+The entire tech stack for my retail company: e-commerce storefront, internal tools, and a custom ERP used daily by the team.
 
 `Full-Stack` `E-commerce` `ERP`
 
