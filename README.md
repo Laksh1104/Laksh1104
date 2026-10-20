@@ -1,8 +1,6 @@
-<!-- 🔧 SETUP: replace the email in the mailto link. -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Laksh%20Boodnah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20(AI)%20%2B%20Economics%20%40%20UofT%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Laksh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20(AI)%20%2B%20Economics%20%40%20UofT&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Shipping+full-stack+products+end-to-end+%F0%9F%9A%80;Running+a+retail+company+from+Toronto+%F0%9F%87%B2%F0%9F%87%BA;Economics+%C3%97+Computer+Science+%F0%9F%93%88" alt="Typing SVG" />
@@ -10,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/lakshya-boodnah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:lboodnah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Toronto%20%F0%9F%87%A8%F0%9F%87%A6-1f2937?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=Laksh1104&style=for-the-badge&color=0ea5e9&label=Profile+Views"/>
 </p>
@@ -25,19 +23,24 @@
 class Laksh:
     def __init__(self):
         self.name      = "Lakshya Boodnah"
-        self.from_     = "Mauritius 🇲🇺"
-        self.based_in  = "Toronto 🇨🇦"
+        self.from_     = "Mauritius"
+        self.based_in  = "Toronto"
         self.school    = "University of Toronto — HBSc, Class of 2028"
         self.majors    = ["Computer Science (AI)", "Economics"]
-        self.honours   = ["Dean's List", "Incoming Scouty Fellow"]
+        self.honours   = [
+            "Ranked 1st in the World — Chemistry & Computer Science",
+            "Dean's List",
+            "Incoming Scouty Fellow",
+            "Intern Insider Fellow",
+        ]
 
     @property
     def experience(self):
         return {
             "BMO — AI Team":  "Built a production-grade autonomous vulnerability remediation agent",
             "EY":             "Full-stack development",
-            "Curated Space":  "Founder — official Roborock reseller in Mauritius",
-            "UofT":           "TA, ECO202 (Macroeconomics) · Co-lead, OpenAI Student Collective",
+            "Curated Space":  "Founder · $5K MRR",
+            "UofT":           "TA, ECO202 (Macroeconomics)",
         }
 
     def currently(self):
@@ -63,7 +66,7 @@ A production-grade agent that detects and remediates security vulnerabilities au
 <td width="50%" valign="top">
 
 ### 🏪 Curated Space Platform
-*Founder · Mauritius*
+*Founder*
 
 The entire tech stack for my retail company (official Roborock reseller): e-commerce storefront, internal tools, and a custom ERP used daily by the team.
 
@@ -74,10 +77,10 @@ The entire tech stack for my retail company (official Roborock reseller): e-comm
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Lumière
+### 🎬 Cinemax
 *Personal project*
 
-A Netflix-style personal streaming platform with a slick browsing experience, powered by TMDB metadata.
+A 4K movie streaming platform with a Netflix-style browsing experience, powered by TMDB metadata.
 
 `Next.js` `TypeScript` `TMDB API`
 
@@ -127,13 +130,6 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 
 <img src="https://streak-stats.demolab.com?user=Laksh1104&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Laksh1104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laksh1104&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
 
 </div>
 
@@ -154,9 +150,9 @@ Letterboxd, but for books — log, rate, and review what you read. Android-first
 ## 🌱 Beyond Code
 
 - 🎓 **Teaching** — TA for ECO202 (Macroeconomics) at UofT
-- 🤝 **Community** — Co-leading the OpenAI Student Collective at UofT; builder sessions, project threads & showcases
+- 🤝 **Community** — Fellow at Intern Insider
 - 📈 **Curious about** — quant finance, options mechanics, and personal automation
-- 🎥 **Off the clock** — film nerd; I built my own streaming app to watch them
+- 🎥 **Off the clock** — movie nerd; I built my own streaming app to watch them
 
 ---
 
