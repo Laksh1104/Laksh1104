@@ -38,7 +38,7 @@ class Laksh:
         return {
             "BMO — AI Team":  "Built a production-grade autonomous vulnerability remediation agent",
             "EY":             "Full-stack development",
-            "Curated Space":  "Founder · $5K MRR",
+            "Curated Space":  "Founder · $10K MRR",
             "UofT":           "TA, ECO202 (Macroeconomics)",
         }
 
